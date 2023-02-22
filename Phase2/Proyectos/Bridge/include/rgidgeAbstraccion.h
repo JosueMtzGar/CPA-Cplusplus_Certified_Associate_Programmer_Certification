@@ -1,0 +1,5 @@
+#ifndef _JOSUE_BRIDGE_ABSTACCION_
+#define _JOSUE_BRIDGE_ABSTACCION_
+
+
+#endif

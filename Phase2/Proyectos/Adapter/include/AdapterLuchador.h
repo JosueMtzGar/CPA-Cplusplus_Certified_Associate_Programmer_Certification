@@ -1,0 +1,5 @@
+#ifndef _JOSUE_ADAPTER_LUCHADOR_
+#define _JOSUE_ADAPTER_LUCHADOR_
+
+
+#endif
